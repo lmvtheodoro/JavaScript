@@ -1,5 +1,5 @@
 ## Tic Tac Toe
-Hello There!<br>
+### Hello There!<br>
 Just a simple Tic Tac Toe Game in JavaScript 🕹<br>
 
 ----
