@@ -10,5 +10,5 @@ This is just a simple Tic Tac Toe Game 🕹<br>
 
 
 <a href="https://www.linkedin.com/in/lucastheodoro/">
-  <img src="https://user-images.githubusercontent.com/94143290/161193959-fef6747c-f323-4534-b3f3-9d02e223a5db.png"
+
 </a>
