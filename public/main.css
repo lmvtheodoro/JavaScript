@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-size: 1.6rem;
+    background-color: rgb(44, 33, 40);
+}
+
+section#game-container{
+    width: 500px;
+    height: 500px;
+    background: rgb(65, 46, 95);
+    display: grid;
+    /* grid-template: repeat(3, 1fr) / repeat(3, 1fr); inserted trough JS startGame()*/
+    box-shadow: 5px 5px 10px 1px #2b062b;
+}
+  
+div{
+    border: 4px solid #100e36;
+    font: 200% sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button#start-game-button{
+    margin-left: 10%;
+    margin-top: 35%;
+    width: 80%;
+    height: 30%;
+    font: 150% sans-serif;
+    background: #8c38eb;
+    color: rgb(61, 45, 99);
+    box-shadow: inset 4px 2px 4px #35517F;
+    padding: 15px;
+    border: 2px solid #C86BE3;
+    border-radius: 5px;
+}
+
+button#start-game-button:hover{
+    color: white;
+    background: #730bec url(./img/pixel_qwmcwc.png);
+    background-size: 100%;
+    border: 2px solid pink;
+    transition-delay: .8s;
+    animation: animation .8s steps(8) forwards; 
+    box-shadow: 1px 1px 4px pink;
+}
+
+@keyframes animation{
+    0%{
+        background-position-y: 0;
+    }
+    100%{
+        background-position-y: -1048px;
+    }
+}
