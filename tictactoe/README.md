@@ -4,8 +4,8 @@ Just a simple Tic Tac Toe Game in JavaScript 🕹<br>
 
 ----
 
-Developed as an alternative solution for the challenge proposed on 'Código Fonte TV'(YouTube Channel).
-First of all, this is not necessarily better than the original proposal;
+Developed as an alternative solution for the challenge proposed on 'Código Fonte TV'(YouTube Channel). <br>
+This is not necessarily better than the original proposal;
 My goal here was just to try solving it all by myself.
 
 <br><br>
