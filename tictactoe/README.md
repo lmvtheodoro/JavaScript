@@ -8,7 +8,7 @@ Developed as an alternative solution for the challenge proposed on 'Código Font
 This is not necessarily better than the original proposal;
 My goal here was just to try solving it all by myself.
 
-<br><br>
+<br>
 
 
 <a href="https://www.linkedin.com/in/lucastheodoro/">
