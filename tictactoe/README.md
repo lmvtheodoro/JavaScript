@@ -1,5 +1,4 @@
 # Tic Tac Toe
-----
 
 Just a simple Tic Tac Toe Game in JavaScript 🕹<br>
 
@@ -16,4 +15,5 @@ My goal here was just to try solving it all by myself.
   <img src="https://user-images.githubusercontent.com/94143290/161193959-fef6747c-f323-4534-b3f3-9d02e223a5db.png"
 </a>
 <br><br>
+ ----
 <small><a href="https://www.youtube.com/watch?v=M258B1b_pMs&t=1288s&ab_channel=C%C3%B3digoFonteTV">Reference</a></small>
