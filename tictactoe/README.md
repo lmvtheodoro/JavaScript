@@ -11,9 +11,9 @@ My goal here was just to try solving it all by myself.
 <br>
 
 
-<a href="https://www.linkedin.com/in/lucastheodoro/">
+<!-- <a href="https://www.linkedin.com/in/lucastheodoro/">
   <img src="https://user-images.githubusercontent.com/94143290/161193959-fef6747c-f323-4534-b3f3-9d02e223a5db.png"
 </a>
-<br><br>
+<br><br> -->
 
 <small><a href="https://www.youtube.com/watch?v=M258B1b_pMs&t=1288s&ab_channel=C%C3%B3digoFonteTV">Reference</a></small>
